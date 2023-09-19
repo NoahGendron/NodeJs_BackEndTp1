@@ -1,0 +1,12 @@
+{
+  "name": "labo1backend",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node BookmarksService.js"
+  },
+  "engines": {
+    "node": "16.14.2"
+  }
+}
